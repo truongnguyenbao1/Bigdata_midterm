@@ -13,4 +13,4 @@ DataFrame) and apply PCY algorithms to complete the
 problem requirements; (3) Using the FPGrowth algorithm, 
 existing in PySpark , to discover frequent pairs and association 
 rules based on a given support threshold s and a confidence 
-threshold c.# Bigdata_midterm
+threshold c.
